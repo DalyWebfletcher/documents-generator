@@ -1,6 +1,5 @@
 # **Getting started**
 
-<<<<<<< HEAD
 ## Installing Docs-Generator
   
 <br>
@@ -75,28 +74,6 @@ Finally click on verify db button, if settings are ok, you will recive a success
 > Now you can click on login link, then put your username and password, and you can start generate your documents
 
 ![login-app.png](img/login-app.png)
-=======
-## Installing wordpress plugin
-
-- Here are a few links to help you start your website’s back-end and get your site ready for installing a wordpress plugin :
-  1. [How to install wordpress plugin ](https://www.siteground.com/tutorials/wordpress/install-plugins/)
-  2. [Wordpress Community](https://wordpress.org/news/category/community/)
-
-## Installing Docs-Generator plugin
-  
-<br>
-
-1. Upload docs-generator zip file  via WordPress Dashboard > Plugins > Add New > Upload > Install Now
-
-![activate-plugin.jpg](img/activate-plugin.jpg)
-<br>
-
-3. Click Activate Plugin.
-4. Congratulations You’ve successfully installed and activated Docs-Generator plugin on your website.
-
-![plugin-overview.jpg](img/plugin-overview.jpeg)
-
->>>>>>> 998627da253a224b541c5112b9127193239887b8
 
 # **Prepare document**
 
@@ -109,22 +86,11 @@ Let's start with Add new document.
 > To add a template for your document:
 
 1. Click on **browse** button.
-<<<<<<< HEAD
 2. Choose an image from your personal folder.
 3. **Validate** your choice.
 >> **PS:** You can skip the guide by clicking on **Close** or "**dont show again**" button.
 
 ![template.png](img/template.png)
-=======
-
-![browse-template.jpg](img/browse-template.jpg)
-
-2. Choose an image from your gallery or you can **upload** an new one from you local machine.
-3. **Validate** your choice.
->> **PS:** You can skip the guide by clicking on **Close** or "**dont show again**" button.
-
-![choose-template.jpg](img/choose-template.jpg)
->>>>>>> 998627da253a224b541c5112b9127193239887b8
 
 ## Step 2: Add Data
 > The data that will be used in the generated documents are extracted from an Excel file.
@@ -135,16 +101,8 @@ To add Data:
 
 ![browse-fields.jpg](img/browse-fields.jpg)
 
-<<<<<<< HEAD
 2. Choose an Excel file from your local folder.
 3. **Validate** your choice.
-=======
-2. Choose an Excel file from your gallery or you can **upload** an new one from you local machine.
-3. **Validate** your choice.
-
-![choose-file.jpg](img/choose-file.jpg)
-
->>>>>>> 998627da253a224b541c5112b9127193239887b8
 4. Select the Fields to use in your document.
 5. If you have in your Excel file an **image** data ***( Url of an image )***, you can definet it.
 6. Click on validate.
@@ -179,11 +137,7 @@ To add Data:
 
 ![custom-image.jpg](img/custom-image.jpg)
 
-<<<<<<< HEAD
   2. Choose an image from your local folders.
-=======
-  2. Choose an image from your gallery or upload a new one.
->>>>>>> 998627da253a224b541c5112b9127193239887b8
   3. Validate your choice. 
 
 ![custom-image2.jpg](img/custom-image2.jpg)
@@ -262,12 +216,6 @@ To add Data:
 
 > **Mail adresses** data columns are auto detected so if you want to send document generated via e-mail to your customers, you need to follow these steps:
 
-<<<<<<< HEAD
-=======
-- [How to Send Email in WordPress using the Gmail SMTP Server ](https://www.wpbeginner.com/plugins/how-to-send-email-in-wordpress-using-the-gmail-smtp-server/)
-- [How to Configure WordPress to Use SMTP For Sending Emails](https://www.siteground.com/tutorials/wordpress/use-smtp/)
-
->>>>>>> 998627da253a224b541c5112b9127193239887b8
 1. You must have an email addresses column in your main data.
 
 ![adresse-mail.jpg](img/adresse-mail.JPG)
@@ -285,7 +233,6 @@ To add Data:
 
 
 > If the selected column contains incorrect emails, a window will appear with the incorrect emails and you can cancel the export operation or ignore the wrong emails and continue the export and send operations.
-<<<<<<< HEAD
 
 # **Save document**
 
@@ -309,5 +256,3 @@ To add Data:
 
 >> **That's all, enjoy it !!**
 ===============
-=======
->>>>>>> 998627da253a224b541c5112b9127193239887b8
